@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/abhimlv/LeetCode/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/abhimlv/LeetCode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/abhimlv/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0898-transpose-matrix](https://github.com/abhimlv/LeetCode/tree/master/0898-transpose-matrix) |
 ## Binary Search
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/abhimlv/LeetCode/tree/master/0067-add-binary) |
+| [0898-transpose-matrix](https://github.com/abhimlv/LeetCode/tree/master/0898-transpose-matrix) |
 ## Stack
 |  |
 | ------- |
@@ -131,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/abhimlv/LeetCode/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [0898-transpose-matrix](https://github.com/abhimlv/LeetCode/tree/master/0898-transpose-matrix) |
 <!---LeetCode Topics End-->
