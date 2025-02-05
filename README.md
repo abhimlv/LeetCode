@@ -1,4 +1,4 @@
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+A collection of LeetCode questions to ace the coding interview!
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Hash Table
@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0058-length-of-last-word](https://github.com/abhimlv/LeetCode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/abhimlv/LeetCode/tree/master/0067-add-binary) |
 | [0242-valid-anagram](https://github.com/abhimlv/LeetCode/tree/master/0242-valid-anagram) |
+| [0271-encode-and-decode-string](https://github.com/abhimlv/LeetCode/tree/master/0271-encode-and-decode-strings) |
 ## Array
 |  |
 | ------- |
