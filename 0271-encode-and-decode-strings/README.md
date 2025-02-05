@@ -15,8 +15,6 @@
 <strong>Output:</strong> ["we","say",":","yes"]
 </pre>
 
-<p><strong class="example">Example 3:</strong></p>
-
 <p>&nbsp;</p>
 <p><strong>Constraints:</strong></p>
 
