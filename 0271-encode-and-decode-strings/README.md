@@ -21,7 +21,7 @@
 <ul>
 	<li><code>0 &lt;<= strs.length &lt;<= 100</code></li>
 	<li><code>0 &lt;<= strs[i].length &lt;< 100</code></li>
-	<li><code>strs[i]</code><strong> contains only UTF-8 characters.</strong></li>
+	<li><code>strs[i]</code> contains only UTF-8 characters.</li>
 </ul>
 
 <p>&nbsp;</p>
