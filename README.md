@@ -105,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0020-valid-parentheses](https://github.com/abhimlv/LeetCode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/abhimlv/LeetCode/tree/master/0042-trapping-rain-water) |
+| [0155-min-stack](https://github.com/abhimlv/LeetCode/tree/master/0155-min-stack) |
 ## Union Find
 |  |
 | ------- |
@@ -150,4 +151,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/abhimlv/LeetCode/tree/master/0011-container-with-most-water) |
+## Design
+|  |
+| ------- |
+| [0155-min-stack](https://github.com/abhimlv/LeetCode/tree/master/0155-min-stack) |
 <!---LeetCode Topics End-->
