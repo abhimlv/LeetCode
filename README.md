@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0739-daily-temperatures](https://github.com/abhimlv/LeetCode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/abhimlv/LeetCode/tree/master/0883-car-fleet) |
 | [0898-transpose-matrix](https://github.com/abhimlv/LeetCode/tree/master/0898-transpose-matrix) |
+| [0907-koko-eating-bananas](https://github.com/abhimlv/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Binary Search
 |  |
 | ------- |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/abhimlv/LeetCode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/abhimlv/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/abhimlv/LeetCode/tree/master/0268-missing-number) |
+| [0907-koko-eating-bananas](https://github.com/abhimlv/LeetCode/tree/master/0907-koko-eating-bananas) |
 ## Bit Manipulation
 |  |
 | ------- |
